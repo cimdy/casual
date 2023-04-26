@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#minecraft:is_overworld",
+  "features": "casual:therapeutic_fruit_bush_checked",
+  "step": "vegetal_decoration"
+}

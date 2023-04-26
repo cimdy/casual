@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "age=0": {
+      "model": "casual:block/therapeutic_fruit_bush_stage0"
+    },
+    "age=1": {
+      "model": "casual:block/therapeutic_fruit_bush_stage1"
+    }
+  }
+}

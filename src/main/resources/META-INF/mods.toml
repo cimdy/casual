@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[45,)"
+license="All rights reserved"
+[[mods]]
+modId="casual"
+version="0.1"
+displayName="casual"
+logoFile="casual.png"
+credits="Thanks for this example mod goes to Java"
+authors="Cimdy"
+description='''
+Hello world！
+'''
+[[dependencies.casual]]
+    modId="forge"
+    mandatory=true
+    versionRange="[45,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.casual]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.19.4,1.20)"
+    ordering="NONE"
+    side="BOTH"
